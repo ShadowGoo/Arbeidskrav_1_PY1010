@@ -1,12 +1,8 @@
-#!/usr/bin/env python
-# coding: utf-8
-
 # # Arbeidskrav 1
 # ## ANZ
 # ### 2024 11 02
 
 # In[56]:
-
 
 #Python-program som beregner og presenterer de årlige totalkostnadene
 #for elbil og for bensinbil samt årlig kostnadsdifferanse utifra info under
@@ -41,7 +37,6 @@ differanse = totalkostnad_bensinbil - totalkostnad_elbil
 print('totalkostnad_elbil =', totalkostnad_elbil)
 print('totalkostnad_bensinbil =', totalkostnad_bensinbil)
 print('differanse =', differanse)
-
 
 # In[ ]:
 
